@@ -1,10 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Rachana</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
+<img src="https://user-images.githubusercontent.com/96567869/253796234-ab4fb28c-1bd5-4b0e-902c-888c323b851f.png" align="right" width=400> 
 
-<img align="right" alt="Data Analysis" width="400" 
-  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif
-">
 - 🔭 I’m currently working on **Portfolio Projects**
 
 - 🌱 I’m currently learning **Dynamic world of Power BI,Sql,Python,ETL process,**
@@ -16,6 +14,8 @@
 - 📫 How to reach me **hnrachana10@gmail.com**
 
 - ⚡ Fun fact **I am classical singer**
+
+
 
 
 <p align="left">
